@@ -1,3 +1,3 @@
 "use strict";
 const messageDiv = document.getElementById("messageDiv");
-messageDiv.innerHTML = "Hello JAVASCRIPT!"
+messageDiv.innerHTML = "Hello JAVASCRIPT!";
