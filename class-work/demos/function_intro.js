@@ -1,6 +1,6 @@
-function greet() {
-  const message = "Hello World!";  //DEFINING A FUNCTION
+function greetSomeone() {
+  const message = "Salutations my friend!"; //DEFINING A FUNCTION
   console.log(message);
 }
 
-greet();                           //CALLING A FUNCTION
+greetSomeone(); //CALLING A FUNCTION
